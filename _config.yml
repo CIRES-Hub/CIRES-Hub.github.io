@@ -1,9 +1,8 @@
 # Site settings
-title: Phd Project
+title: CIRES Phd Project
 email: your-email@domain.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  This website is for showcasing the CIRES PhD Project.
 lang: en-US
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
