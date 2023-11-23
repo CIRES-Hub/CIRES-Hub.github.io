@@ -1,6 +1,6 @@
 ---
 title: Intro
-permalink: /docs/introduction/
+permalink: /docs/Introduction/
 ---
 
 Introduce your project here. The following is an example.
